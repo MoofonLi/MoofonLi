@@ -3,7 +3,7 @@
 I am a passionate student at NTUT studying Intelligent Automation Engineering. With experience in software collaboration, agile development, and software development across various IT-related fields, I have excelled in computer science courses and project work. I'm eager to continue expanding my technical skills and contributing to the open-source community.
 
 - 🌱 I’m a Full-Stack engineer focus on Website, Mobile App and Game Design
-- 📚 Recently learning blockchain technology
+- 📚 Recently learning financial technology
 - 🔭 Currently studing in NTUT (Department of Intelligent Automation Engineering) fifth grade
 
 <span>
