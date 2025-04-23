@@ -21,6 +21,7 @@ I am a passionate student at NTUT studying Intelligent Automation Engineering. W
 <img src="https://img.shields.io/github/followers/MoofonLi?style=social" height="25" />
 </span>
 
+<!--
 - - - - - - - -
 ### language and tools
 <p>
@@ -53,10 +54,14 @@ I am a passionate student at NTUT studying Intelligent Automation Engineering. W
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" alt="Gitlab" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Git" width="50" height="50">
 </p>
-
+-->
 - - - - - - - -
 <img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=MoofonLi&show_icons=true&theme=transparent" />
 <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoofonLi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MoofonLi" />
+
+
+
+
 <!--
 **MoofonLi/MoofonLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
