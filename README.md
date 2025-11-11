@@ -2,19 +2,22 @@
 Working on AI governance and enterprise cloud solutions at IBM. Experience in cloud services, software development, and AI governance across financial services.
 
 <span>
-<img src="https://komarev.com/ghpvc/?username=MoofonLi&style=flat"  height="25">
-<!-- Light Mode -->
-<a href="www.linkedin.com/in/moofon-li-58895329a#gh-light-mode-only">
-    <img src="https://img.shields.io/badge/LinkedIn-58895329a?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only"
-        alt="Connect with me on linkedin" height="25" >
-</a>
-<!-- Dark Mode -->
-<a href="https://www.linkedin.com/in/moofon-li-58895329a#gh-dark-mode-only">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only"
-        alt="Connect with me on linkedin" height="25" >
-</a>
-<img src="https://img.shields.io/github/followers/MoofonLi?style=social" height="25" />
+  <!-- Profile view counter -->
+  <img src="https://komarev.com/ghpvc/?username=MoofonLi&style=flat" height="25" />
+
+  <!-- LinkedIn badge - Light mode -->
+  <a href="https://www.linkedin.com/in/moofon-li-58895329a#gh-light-mode-only">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only"
+         alt="Connect with me on LinkedIn" height="25" />
+  </a>
+
+  <!-- LinkedIn badge - Dark mode -->
+  <a href="https://www.linkedin.com/in/moofon-li-58895329a#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2#gh-dark-mode-only"
+         alt="Connect with me on LinkedIn" height="25" />
+  </a>
 </span>
+
 
 <!--
 - - - - - - - -
