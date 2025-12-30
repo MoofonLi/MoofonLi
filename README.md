@@ -13,9 +13,9 @@ Experience in cloud services, software development, and AI governance across fin
 ---
 
 <!-- GitHub Status -->
-<p>
+<!-- <p>
   <img align="left" width="46%"
        src="https://github-readme-stats.vercel.app/api?username=MoofonLi&show_icons=true&theme=transparent" />
   <img align="left" width="35%"
        src="https://github-readme-stats.vercel.app/api/top-langs?username=MoofonLi&layout=compact&theme=transparent" />
-</p>
+</p> -->
